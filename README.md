@@ -1,4 +1,4 @@
-# Applied-Statistics
+# Applied Statistics
 
 This project focuses on applying statistical concepts to real-world business scenarios. It includes analysis of joint probability, quality control, Poisson distribution, speech recognition accuracy, basketball team performance, and startup funding.
 
@@ -13,7 +13,6 @@ This project focuses on applying statistical concepts to real-world business sce
 6.  [Startup Funding Analysis](#startup-funding-analysis)
     *   [Tasks](#tasks-startup)
 7.  [Getting Started](#getting-started)
-
 
 ## Joint Probability Analysis
 
@@ -35,18 +34,18 @@ Evaluate the accuracy of a speech-based bot for restaurant orders using probabil
 
 Analyze historical data of basketball teams to identify potential investment opportunities for Company X.
 
-### Tasks basketball
+### Tasks <a name="tasks-basketball"></a>
 
 *   Data cleaning and preparation
 *   Statistical analysis and EDA (univariate, bivariate, multivariate)
 *   Performance report generation
 *   Recommendations for data collection improvements
 
-## Startup Funding Analysis
+## Startup Funding Analysis <a name="startup-funding-analysis"></a>
 
 Investigate the relationship between funding and operational status of startups.
 
-### Tasks -startup
+### Tasks <a name="tasks-startup"></a>
 
 *   Data preprocessing
 *   Visualization of funding distribution
